@@ -13,6 +13,10 @@ While the theme may change, we do look forward to hosting you in our community Z
 - Drinks (all kinds) welcome, not required
 - EVERYONE should join 😁
 
-## How to join:
+## When?
+
+TBD
+
+## How do I join?
 
 TBD
