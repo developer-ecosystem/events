@@ -15,8 +15,20 @@ While the theme may change, we do look forward to hosting you in our community Z
 
 ## When?
 
-TBD
+- Day: April 15, 2020
+- Time: 8:00a Pacific / 3:00p UTC
 
 ## How do I join?
 
-TBD
+This call will take place on Zoom (Easy enough...)
+
+Topic: DevEco(Roundtable)
+Time: Apr 15, 2020 08:00 AM Pacific Time (US and Canada)
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/81199338056
+
+Meeting ID: 811 9933 8056
+Password: deveco123
+
+
