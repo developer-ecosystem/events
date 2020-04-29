@@ -1,4 +1,4 @@
-# DevEco(Live)
+# devEco(Live)
 
 DevEco(Live) is a community driven livestream focused on bringing a diverse and global community of developers together to talk about tech! 
 
